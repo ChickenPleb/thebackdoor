@@ -1,2 +1,2 @@
-var page = ["to-login"];
+var page = ["to-home"];
 export default page;
